@@ -3,11 +3,11 @@ Hello there! 👋 I am Matin! 🙋🏽‍♂️
 </h1>
 
 <p align="center">
-      Currently, a Machine Learning Engineer @ SAP, Singapore.
+      Currently, a Business Analytics Student @ Singapore University of Social Science.
 </p>
 
 <!--
-**wtlow003/wtlow003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M10Esq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
